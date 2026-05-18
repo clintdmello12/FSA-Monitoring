@@ -25,8 +25,8 @@ npm run dev
 
 ## Live deployment
 
-- Frontend (Vercel) — -
-- Backend (Railway) — -
+- Frontend (Vercel) — https://fsa-monitoring.vercel.app/
+- Backend (Railway) — https://fsa-monitoring-production.up.railway.app
 
 ## Tech choices
 
