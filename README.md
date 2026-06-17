@@ -1,6 +1,6 @@
 # Monitoring Dashboard with AI Insights
 
-Real-time HTTP monitoring with LLM-powered incident analysis. Built for the BizScout take-home assessment.
+Real-time HTTP monitoring with LLM-powered incident analysis.
 
 ## What it does
 
