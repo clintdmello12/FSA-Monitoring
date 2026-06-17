@@ -52,7 +52,7 @@ jobs:
         if: steps.roll.outputs.skip == 'false'
         shell: bash
         run: |
-          DELAY=$((RANDOM % 5400))
+          DELAY=$((RANDOM % 10))
           echo "Waiting $DELAY seconds before committing."
           sleep "$DELAY"
 
